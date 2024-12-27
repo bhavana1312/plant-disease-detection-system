@@ -21,7 +21,7 @@ This project uses deep learning to analyze images of plant leaves and identify d
 ## 🛠️ Tech Stack  
 
 - **Frameworks**: TensorFlow, Streamlit  
-- **Model**: Trained on the PlantVillage dataset  
+- **Model**: CNN
 - **Deployment**: Streamlit Cloud  
 
 ---
